@@ -6,8 +6,8 @@ A pixel-close implementation of the JBL web template built with **React + Vite +
 
 ## 🔗 Links
 
-- **Live Demo:** [https://jbl-website.vercel.app](https://jbl-website.vercel.app)
-- **GitHub:** [https://github.com/YOUR_USERNAME/jbl-website](https://github.com/yo-soy-dev/jbl-website)
+- **Live Demo:** [https://jbl-nebuloid.vercel.app](https://jbl-nebuloid.vercel.app)
+- **GitHub:** [https://github.com/yo-soy-dev/jbl-website](https://github.com/yo-soy-dev/jbl-website)
 - **Figma Reference:** [JBL Web Template](https://www.figma.com/design/ORj0wnxvVMHOF1vaQmYS1x/JBL-web-template)
 
 ---
@@ -115,14 +115,10 @@ npm run build
 ## 📸 Screenshots
 
 ### Home Page
-![Hero Section](<img width="1517" height="724" alt="image" src="https://github.com/user-attachments/assets/59cd89d9-27a8-44a0-8b55-2f8681e3ff57" />
-)
+![Hero Section](https://github.com/user-attachments/assets/59cd89d9-27a8-44a0-8b55-2f8681e3ff57)
 
 ### About Us Page
-![About Section](<img width="1536" height="714" alt="image" src="https://github.com/user-attachments/assets/b03d4d57-9e4b-459e-b156-b39bfc06739d" />
-)
-
-> Add screenshots by taking a browser screenshot and saving to `/screenshots/` folder
+![About Section](https://github.com/user-attachments/assets/b03d4d57-9e4b-459e-b156-b39bfc06739d)
 
 ---
 
